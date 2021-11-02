@@ -2,6 +2,7 @@
 Oliver E.
 9-23
 t - t - t
+fun words
 '''
 
 print("Play the game, I promise I won't brutally murder you if you don't.")
